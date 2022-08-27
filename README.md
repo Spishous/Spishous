@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Hey, Salut !
+Je suis Rayan, développer d'application web passionné.<br>
+Rester à jour sur les dernières techno est indispensable aujourd'hui.
 
-<!--
-**Spishous/Spishous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mes langages phare? 👇
 
-Here are some ideas to get you started:
+&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/53474519/187040368-8764a6d2-5af1-444c-8a64-b5cbc9f1f30c.png" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mes compétence complémentaire?
+<li>Réferencement SEO
+<li>UI/UX Design
+<li>Progressive Web App
+
+<br>Mon profil: https://spishous.github.io/
+<br>Mon Linkedin: https://www.linkedin.com/in/rlucas-dev/
